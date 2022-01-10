@@ -12,5 +12,7 @@ chmod +x "GADIO Abdourahmane - Script interactif".sh<br>
 ## Pour choisir les slides :
 Taper le numéro correspondant sur le clavier
 
+### <a href="https://abdourahmanegadio.github.io/CoursProcessus/">Un site pour voir le script en ligne (en cours de développement)</a>
+
 
 
